@@ -1,0 +1,3 @@
+source_id,assignment_type,n_images,assignment_confidence_median,width_median,height_median,Normal,Pneumonia,Tuberculosis
+latent_L1,latent,7894,0.38896877712491756,1024.0,984.0,2826,3992,1076
+latent_L2,latent,6387,0.36917740655101927,256.0,256.0,636,253,5498
